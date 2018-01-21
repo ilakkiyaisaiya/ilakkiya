@@ -2,7 +2,7 @@
 
  
 
-int main()
+void main()
 
 {
 
@@ -32,6 +32,6 @@ int main()
 
     printf("\n largest element present in the given array is : %d", largest);
 
-    return 0;
+   
 
 }
